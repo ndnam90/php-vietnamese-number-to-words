@@ -1,0 +1,16 @@
+{
+    "name": "ndnam90/php-vietnamese-number-to-words",
+    "description": "Vietnamese number to words converter use PHP",
+    "authors": [
+        {
+            "name": "Nam Nguyen Duc",
+            "email": "ndnam90@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files": [
+            "src/Helpers.php"
+        ]
+    }
+}
